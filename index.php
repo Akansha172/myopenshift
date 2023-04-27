@@ -2,9 +2,8 @@
 <pre>
 <?php
 
-print("This is first time.......");
-print("This is second time........ ");
-print("This is third time.......");
+print("This is a php website for testing");
+
 print `ifconfig`;
 
 ?>
